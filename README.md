@@ -1,3 +1,6 @@
 # Yelp-Dataset-Challenge
 
-Yelp presents a challenge to all programmers to devise new innovative ways to interpret and analyze business data provided by Yelp. The datasets include business data, anonymized user data, check-in data, as well as user reviews and tips. I chose this data because the data is very thorough and provides a lot of options for how it can be analyzed. I used Natural Language Processing with the User Reviews and Tips, Data Visualizations with the User and Business data and Time Series with the User and Business data. There is much more that can be done with the data. 
+Yelp hosts an annual challenge for all sorts of computer scientists and provides a comprehensive set of data that includes business information, user information, reviews, tips, check-in information, and even a large photo library.
+Using the data provided I will analyze what attributes and features make a well-ranked restaurant and a well-ranked user as well as conducting sentiment analysis on the review text.
+If needed I will also utilize the Yelp API to apply my models to current data from whereever a user would like.
+The potential stakeholders would be the businesses that can see what factors will affect their businesses reputation as well as the users who will be able to distinguish between credible reviews with good content or reviews that are not informative. Yelp may also be a potential stakeholder because the model could be used to sift through reviews to prioritize the better reviews on the page as opposed to the spam reviews.
